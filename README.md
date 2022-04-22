@@ -26,4 +26,4 @@ One thing that I think it better is to find the way to automatically convert all
 
 let's say the input type is hsl, cymk etc. there should be a way to convert any type to rgb and render in the DOM
 
-if it is a well-know type I can find the formula or using some color converting library but with some strange type like ***BRGB in the problem*** I think it need to specifically insert the convert logic manually.
+if it is a well-known type I can find the formula or using some color converting library but with some strange type like ***BRGB in the problem*** I think it need to specifically insert the convert logic manually.
